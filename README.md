@@ -8,7 +8,7 @@ People call me Sush, I am a Software Engineering graduate student at San Jose St
 
 I am a tech geek, facinated by capabilities of Machine Learning and building applications. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
 
-⚡ Fun fact: I'm a huge Naruto anime fan. Believe it! <img src="https://raw.githubusercontent.com/sushmitha-93/sushmitha-93/main/1268589-middle.png" width="35"> 
+⚡ Fun fact: I'm a huge Naruto anime fan. Believe it! 
 <!--
 **Sushmitha-93/Sushmitha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
