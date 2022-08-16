@@ -1,4 +1,4 @@
-## Hi there, I am Sushmitha 👋
+## Hi there, I am Sushmitha <img src="https://raw.githubusercontent.com/sushmitha-93/sushmitha-93/main/wave (1).gif" width="30"> 
 
 People call me Sush, I am a Software Engineering graduate student at San Jose State University. 
 
