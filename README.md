@@ -3,10 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sushmitha--dt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmitha-dt/)](https://www.linkedin.com/in/sushmitha-dt/)
 [![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
 
+I am a Software Engineering graduate student at San Jose State University. 
 
-People call me Sush, I am a Software Engineering graduate student at San Jose State University. 
-
-I am a tech geek, facinated by capabilities of Machine Learning and building applications. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
+People call me Sush. I am a tech geek, facinated by capabilities of Machine Learning and building applications. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
 
 
 ## ⚡ Technologies
