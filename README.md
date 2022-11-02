@@ -2,10 +2,17 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sushmitha--dt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmitha-dt/)](https://www.linkedin.com/in/sushmitha-dt/)
 [![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sushmitha.dhummithrilochana@sjsu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sushmitha.dhummithrilochana@sjsu.edu)](mailto:sushmitha.dhummithrilochana@sjsu.edu)
 
 I am a Software Engineering graduate student at San Jose State University. 
 
-People call me Sush. I am a tech geek, facinated by capabilities of Machine Learning and building applications. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
+<b>What am I passionate about?</b> Fullstack development 😍
+
+<b>What am I proficient in? </b> Java, Javascript and it's related frameworks such as ReactJS, NodeJS. 💪🐱‍🏍
+
+<b>What's new?</b> I'm also specializing in Machine Learning. Lately, I've been experimenting with  building ML models and deploying to integrate ML services with fullstack applications. 👀🌱
+
+<b>A work philosophy that I live with</b> - <i>"Always be learning to develop quickly and be exceptional yet humble, by continually seeking out mentors and learning opportunities"</i> 💯
 
 
 ## ⚡ Technologies
