@@ -12,7 +12,7 @@ I am a Software Engineering graduate student at San Jose State University.
 
 <b>What's new?</b> I'm also specializing in Machine Learning. Lately, I've been experimenting with  building ML models and deploying to integrate ML services with fullstack applications. 👀🌱
 
-<b>Work philosophy: </b> - <i>"Always be learning to develop quickly and be exceptional yet humble, by continually seeking out mentors and learning opportunities"</i> 💯
+<b>Work philosophy: </b> <i>"Always be learning to develop quickly and be exceptional yet humble, by continually seeking out mentors and learning opportunities"</i> 💯
 
 
 ## ⚡ Technologies
