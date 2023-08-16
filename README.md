@@ -6,7 +6,7 @@
 
 I am a Software Engineering graduate student at San Jose State University. 
 
-<b>What am I passionate about?</b> Fullstack development 😍
+<b>What am I passionate about?</b> Fullstack development
 
 <b>What am I proficient in? </b> Java, Javascript and it's related frameworks such as ReactJS, NodeJS. 💪🐱‍🏍
 
