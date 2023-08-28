@@ -1,21 +1,20 @@
-## Hi there! I am Sushmitha 
+## Hi there! I am Sushmitha (Sush)
 
 [![Linkedin Badge](https://img.shields.io/badge/-sushmitha--dt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmitha-dt/)](https://www.linkedin.com/in/sushmitha-dt/)
 [![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sushmitha.dhummithrilochana@sjsu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sushmitha.dhummithrilochana@sjsu.edu)](mailto:sushmitha.dhummithrilochana@sjsu.edu)
 
-I am a Software Engineering graduate student at San Jose State University. 
+👋 Hi there! I'm a Software Engineering professional with experience in full stack application development and microservice architecture. 
 
-<b>What am I passionate about?</b> Fullstack development
+I am currently in final semester of my Master's in Software Engineering. With over 4 years experience in developing and maintaining enterprise applications, I'm very comfortable in using Python, NodeJS, ReactJS, Redux, Redis, Kafka, MySQL, MongoDB, DynamoDB, AWS and GCP Services.
 
-<b>What am I proficient in? </b> Java, Javascript and it's related frameworks such as ReactJS, NodeJS. 💪🐱‍🏍
+I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀 
 
-<b>What's new?</b> I'm also specializing in Machine Learning. Lately, I've been experimenting with  building ML models and deploying to integrate ML services with fullstack applications. 👀🌱
+My recent adventures through some of my course works, have taken me on a deep dive into the world of Machine Learning/AI, where I'm unraveling the secrets of this captivating realm to learn how to to seamlessly integrate ML models with applications to create an awe-inspiring blend. Check out my Github repo for my latest exploits! 🐱‍💻
 
-<b>Work philosophy: </b> <i>"Always be learning to develop quickly and be exceptional yet humble, by continually seeking out mentors and learning opportunities"</i> 💯
+I'm that perpetual curious mind guided by <b>"Learn, create, iterate,"</b>. I thrive on constant growth, relentlessly pursuing new avenues of knowledge. Join me in sculpting the future through the art of coding! 🐱‍🏍
 
-
-## ⚡ Technologies
+## ⚡ Technologies I usually wield
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
