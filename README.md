@@ -4,13 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sushmitha.dhummithrilochana@sjsu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sushmitha.dhummithrilochana@sjsu.edu)](mailto:sushmitha.dhummithrilochana@sjsu.edu)
 
-👋 Hi there! I'm a Software Engineering professional with experience in full stack application development and microservice architecture. 
+👋 Hi there! Welcome to my Github repo! I'm a Software Engineering professional with experience in full stack application development and microservice architecture. 
 
 I am currently in final semester of my Master's in Software Engineering. With over 4 years experience in developing and maintaining enterprise applications, I'm very comfortable in using Python, NodeJS, ReactJS, Redux, Redis, Kafka, MySQL, MongoDB, DynamoDB, AWS and GCP Services.
 
 I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀 
 
-My recent adventures through some of my course works, have taken me on a deep dive into the world of Machine Learning/AI, where I'm unraveling the secrets of this captivating realm to learn how to to seamlessly integrate ML models with applications to create an awe-inspiring blend. Check out my Github repo for my latest exploits! 🐱‍💻
+My recent adventures through some of my course works, have taken me on a deep dive into the world of Machine Learning/AI, where I'm unraveling the secrets of this captivating realm to learn how to to seamlessly integrate ML models with applications to create an awe-inspiring blend. 🐱‍💻
 
 I'm that perpetual curious mind guided by <b>"Learn, create, iterate,"</b>. I thrive on constant growth, relentlessly pursuing new avenues of knowledge. Join me in sculpting the future through the art of coding! 🐱‍🏍
 
