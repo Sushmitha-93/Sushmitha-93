@@ -14,7 +14,7 @@ My recent adventures through some of my course works, have taken me on a deep di
 
 I'm that perpetual curious mind guided by <b>"Learn, create, iterate,"</b>. I thrive on constant growth, relentlessly pursuing new avenues of knowledge. Join me in sculpting the future through the art of coding! 🐱‍🏍
 
-## ⚡ Technologies I usually wield
+## ⚡ My Go-To Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
