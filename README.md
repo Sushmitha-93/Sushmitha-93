@@ -10,7 +10,7 @@ I am currently in final semester of my Master's in Software Engineering. With ov
 
 I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀 
 
-I'm that perpetual curious mind guided by <b>"Learn, create, iterate,"</b>. I thrive on constant growth, relentlessly pursuing new avenues of knowledge. Join me in sculpting the future through the art of coding! 🐱‍🏍
+<b>"Learn, create, iterate,"</b> 🐱‍🏍
 
 ## ⚡ My Go-To Technologies
 
