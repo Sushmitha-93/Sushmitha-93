@@ -10,8 +10,6 @@ I am currently in final semester of my Master's in Software Engineering. With ov
 
 I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀 
 
-My recent adventures through some of my course works, have taken me on a deep dive into the world of Machine Learning/AI, where I'm unraveling the secrets of this captivating realm to learn how to to seamlessly integrate ML models with applications to create an awe-inspiring blend. 🐱‍💻
-
 I'm that perpetual curious mind guided by <b>"Learn, create, iterate,"</b>. I thrive on constant growth, relentlessly pursuing new avenues of knowledge. Join me in sculpting the future through the art of coding! 🐱‍🏍
 
 ## ⚡ My Go-To Technologies
