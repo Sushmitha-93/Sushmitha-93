@@ -12,7 +12,7 @@ I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀
 
 <b>"Learn, create, iterate,"</b> 🐱‍🏍
 
-## ⚡ My Go-To Technologies
+## ⚡ Tech-Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -42,7 +42,10 @@ I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmitha-93&hide=TeX&layout=compact)
+## 🎯🏅 My Holopin Badges
+
+[![An image of @sushmitha93's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushmitha93)](https://holopin.io/@sushmitha93)
+
 <!--
 **Sushmitha-93/Sushmitha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
