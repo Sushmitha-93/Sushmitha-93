@@ -31,7 +31,6 @@ I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -42,12 +41,20 @@ I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## 🎯🏅 My Holopin Badges
+## 🎯🏅 My Badges
+### LeetCode Badges
 
+<img src="https://assets.leetcode.com/static_assets/others/%E9%9D%99%E6%80%81%E5%9B%BE.png" width="200">
+
+### Holopin Badges
 [![An image of @sushmitha93's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushmitha93)](https://holopin.io/@sushmitha93)
+
+
+
 
 <!--
 **Sushmitha-93/Sushmitha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
