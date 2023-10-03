@@ -41,7 +41,7 @@ I am a tech geek at heart, tech exploration fuels my spirit! 🐱‍🚀
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## 🎯🏅 My Badges
+## 🎯🏅 Badges
 ### LeetCode Badges
 
 <img src="https://assets.leetcode.com/static_assets/others/%E9%9D%99%E6%80%81%E5%9B%BE.png" width="200">
