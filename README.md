@@ -1,6 +1,5 @@
 ## Hello, there! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-sushmitha--dt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmitha-dt/)](https://www.linkedin.com/in/sushmitha-dt/)
-[![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
+
 
 My name is Sushmita (she/her), I am a Software Developer with a passion for **Full Stack Application Development**. My journey involves building **secure**, **scalable**, and **distributed** enterprise applications and **Microservices** using **Agile** methodologies and **Test-Driven Development (TDD)**.
 
@@ -25,6 +24,8 @@ My name is Sushmita (she/her), I am a Software Developer with a passion for **Fu
 
 Let’s geek out together—I’m always game for exciting projects! 🚀
 
+[![Linkedin Badge](https://img.shields.io/badge/-sushmitha--dt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmitha-dt/)](https://www.linkedin.com/in/sushmitha-dt/)
+[![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
 
 
 ## 🏅 Badges
