@@ -2,15 +2,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sushmitha--dt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushmitha-dt/)](https://www.linkedin.com/in/sushmitha-dt/)
 [![Linkedin Badge](https://img.shields.io/badge/-dtsushmitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dtsushmitha@gmail.com)](mailto:dtsushmitha@gmail.com)
 
-My name is Sushmita (she/her), I am a Software Developer with a passion for Full Stack Application Development. My journey involves building secure, scalable, and distributed enterprise applications and Microservices using Agile methodologies and Test-Driven Development (TDD).
+My name is Sushmita (she/her), I am a Software Developer with a passion for **Full Stack Application Development**. My journey involves building **secure**, **scalable**, and **distributed** enterprise applications and **Microservices** using **Agile** methodologies and **Test-Driven Development (TDD)**.
 
 ### A Bit About Me
 - 🎓 Education: Master’s in Software Engineering from San Jose State University (Dec 2023)
-- 🌟 Focus: Enterprise Software Technologies with a dash of Data Science
+  - 🎯 Focus: Enterprise Software Technologies with a dash of Data Science
 - 🚀 Quest: I’m a lifelong learner and a tech aficionado. Exploring tech is my jam! 🐱‍🚀
 - 💡 AI Collaboration: I’m all about teaming up to build impactful, data-driven solutions using AI.
 
-### 🧰 My Toolkit 👩‍💻
+### 🧰 My Toolkit 
 - Language: TypeScript/JavaScript, Python.
 - Frontend Stack: React.js, Redux, Material UI, Tailwind CSS, HTML/CSS.
 - Backend Stack: Node, Express.js, GraphQL, FastAPI (Starlette), Apache Kafka.
@@ -27,7 +27,7 @@ Let’s geek out together—I’m always game for exciting projects! 🚀
 
 
 
-## 🎯🏅 Badges
+## 🏅 Badges
 ### LeetCode Badges
 
 <img src="https://assets.leetcode.com/static_assets/others/%E9%9D%99%E6%80%81%E5%9B%BE.png" width="100">
