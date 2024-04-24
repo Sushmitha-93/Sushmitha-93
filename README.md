@@ -1,7 +1,7 @@
 ## Hello, there! 👋
 
 
-My name is Sushmita (she/her), I am a Software Developer with a passion for **Full Stack Application Development**. My journey involves building **secure**, **scalable**, and **distributed** enterprise applications and **Microservices** using **Agile** methodologies and **Test-Driven Development (TDD)**.
+My name is Sushmita! I am a Software Developer with a passion for **Full Stack Application Development**. My journey involves building **secure**, **scalable**, and **distributed** enterprise applications and **Microservices** using **Agile** methodologies and **Test-Driven Development (TDD)**.
 
 ### A Bit About Me
 - 🎓 Education: Master’s in Software Engineering from San Jose State University (Dec 2023)
