@@ -20,7 +20,7 @@ My name is Sushmita! I am a Software Developer with a passion for **Full Stack A
 
 ### 📫 Let's Connect
 - Find me on [LinkedIn](https://www.linkedin.com/in/sushmita-dev/)!
-- Learn more about my work at [`sushportfolio.me`](https://sushportfolio.me/)
+- Learn more about my work at [`sushportfolio.me`](https://sushmitaPortfolio.com/)
 
 Let’s geek out together—I’m always game for exciting projects! 🚀
 
