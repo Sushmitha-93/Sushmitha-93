@@ -19,8 +19,8 @@ My name is Sushmita! I am a Software Developer with a passion for **Full Stack A
 - Cloud Computing: AWS (Lambda, EC2, EKS, S3), GCP (GKE).                   
 
 ### 📫 Let's Connect
-- Find me on [LinkedIn](https://www.linkedin.com/in/sushmita-dev/)!
-- Learn more about my work at [`sushportfolio.me`](https://sushmitaPortfolio.com/)
+- Find me on [LinkedIn](https://www.linkedin.com/in/sushmita-dev/)! 
+- Learn more about my work at [`sushmitaPortfolio.com`](https://www.sushmitaportfolio.com/)
 
 Let’s geek out together—I’m always game for exciting projects! 🚀
 
